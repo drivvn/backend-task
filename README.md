@@ -57,5 +57,6 @@ Here's what you'll need to send us:
  * A link to a **public** GitHub repo that you have created, containing the code
  * It should contain a suite of unit tests (using whichever test framework you prefer)
  * It should also contain a README.md file explaining how to run the app and its tests
+ * You may also send us a link to a location hosting your code (for example, Heroku)
 
-**The task should take no longer than 2.5 hours.**
+**The task should take around 2-3 hours.**
